@@ -1,1 +1,1 @@
-# Sales-Forecasting-Using-XGBoost-
+Built a sales forecasting model with XGBoost, leveraging hyperparameter tuning and data preprocessing. Deployed the model and integrated it with a mobile app for user-friendly insights and visualizations.
